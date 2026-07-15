@@ -1,5 +1,5 @@
 # Color-Recognition
-![Output](images/output.jpg)
+![output](output.jpg)
 ## Project Description
 
 This project detects red-colored objects in an image using OpenCV. The program converts the image from BGR to HSV color space, creates a mask for the red color, detects the object, draws a bounding box around it, and labels it as Red Object.
